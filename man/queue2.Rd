@@ -7,9 +7,9 @@
 queue2(lambda, mu, T, S)
 }
 \arguments{
-\item{lambda}{The successive arrival intervals of customers to the system are independent and subject to an exponential distribution with a parameter of $\lambda$. (numeric)}
+\item{lambda}{The successive arrival intervals of customers to the system are independent and subject to an exponential distribution with a parameter of lambda. (numeric)}
 
-\item{mu}{The service time of the service desk is also iid., and obeys the exponential distribution of parameter $\mu$. (numeric)}
+\item{mu}{The service time of the service desk is also iid., and obeys the exponential distribution of parameter mu. (numeric)}
 
 \item{T}{System service time (numeric)}
 
