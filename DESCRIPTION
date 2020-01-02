@@ -1,0 +1,15 @@
+Package: SC19003
+Type: Package
+Title: Queuing problem
+Version: 1.0
+Date: 2020-01-01
+Author: SC19003
+Maintainer: SC19003 <3219851710@qq.com>
+Description: Calculate the main quantitative metric describing the queuing system in the queuing service system. These are the length of the queue (Ls), the average waiting time of the customer and the average stay time (Ws), and whether the system is busy.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Encoding: UTF-8
+RoxygenNote: 7.0.2
